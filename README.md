@@ -10,3 +10,5 @@ Titanic Survival Count
 Image Classification Between dogs and cats 
 
 This internship helps me to gain hands on experience on various python libraries like numpy, pandas, matplot, seaborn, tensorflow. Also, helped me to enhace my data analysis tools by practicing. 
+
+Link for the course: https://bharatintern.live/
