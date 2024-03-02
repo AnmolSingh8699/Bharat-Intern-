@@ -1,6 +1,7 @@
 # Bharat-Intern-
 
-![Uploading image.png…]()
+![image](https://github.com/AnmolSingh8699/Bharat-Intern-/assets/112332999/1998c918-cba1-4ed0-8816-acdbd1bd79c6)
+
 
 This is my virtual internship of Data Science  by Bharat Intern . 
 
